@@ -1,4 +1,4 @@
-# Loan Prediction Model
+# 🏦Loan Prediction Model
 
 An XGBoost binary classifier that predicts whether a loan application should be **approved (1)** or **rejected (0)**, based on an applicant's cash flow behavior, requested loan terms, and credit repayment history.
 
